@@ -1,4 +1,4 @@
-[CN](README.md) / [EN](README_EN.md)
+[CN](README.md)
 
 ## vue3
 
